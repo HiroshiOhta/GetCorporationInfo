@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+constants.py
+crypt_string.py
+generate_crypt_keyfile.py
